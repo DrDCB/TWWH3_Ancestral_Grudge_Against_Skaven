@@ -1,0 +1,5 @@
+key	text	tooltip
+#Loc PackedFile;1;text/db/!dcb_anc_grudge_character_skills.loc		
+character_skills_localised_description_wh_dlc06_skill_dwf_runelord_self_ancestral_grudge	All Dwarfs despise the Greenskins and Skaven, for the urks, grobi, and thaggoraki have committed innumerable crimes against the Dawi.	false
+character_skills_localised_description_wh_main_skill_dwf_all_unique_ancestral_grudge	All Dwarfs despise the Greenskins and Skaven, for the urks, grobi, and thaggoraki have committed innumerable crimes against the Dawi.	false
+character_skills_localised_description_wh_main_skill_dwf_lord_self_ancestral_grudge	All Dwarfs despise the Greenskins and Skaven, for the urks, grobi, and thaggoraki have committed innumerable crimes against the Dawi.	false
